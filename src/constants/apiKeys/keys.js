@@ -1,0 +1,1 @@
+export const newsApi = 'c17b3ffe0e70492cbffabece2f94e76f';
