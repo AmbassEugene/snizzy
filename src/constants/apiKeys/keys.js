@@ -1,1 +1,1 @@
-export const newsApi = 'c17b3ffe0e70492cbffabece2f94e76f';
+export const newsApi = 'USE_YOUR_NEWS.ORG_API_KEY';
